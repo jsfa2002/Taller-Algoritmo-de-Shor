@@ -16,11 +16,11 @@ Aprendizaje del algoritmo de Shor, con 3 ejercicios.
 
 Show that:
 
-$1977 \equiv 1 \text{ (mod 247)}$
+- $1977 \equiv 1 \text{ (mod 247)}$
 
-$16183 \equiv 15442 \text{ (mod 247)}$
+- $16183 \equiv 15442 \text{ (mod 247)}$
 
-Compute the factors of $N=247$ using $a=2$
+- Compute the factors of $N=247$ using $a=2$
 
 Deployment
 Este proyecto está listo para ser utilizado como una librería local.
